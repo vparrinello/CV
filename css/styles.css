@@ -139,11 +139,19 @@ hr {
 
 @media (max-width: 800px) {
   h1 {
-  font-size: 5.0rem;
+  font-size: 4.8rem;
   }
   
+  hr {
+  width: 10%;
+  }
+  
+  .middle-container {
+  padding: 100px 0 10px;
+}
+
   .profile {
-  width: 70%;
+  width: 80%;
   }
   
   .contact-me {
@@ -152,7 +160,7 @@ hr {
   
   .skill-row {
   width: 90%;
-}
+  }
   
   .txt-img1, .txt-img3 {
     height: 100px;
@@ -165,6 +173,11 @@ hr {
     height: 0;
     visibility: hidden;
   }
+  
+  .BUTTON_HMG {
+    font-size: 12px;
+  }
+  
 }
 
 .footer-text {
