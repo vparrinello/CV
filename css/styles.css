@@ -137,7 +137,7 @@ hr {
   visibility: hidden;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 800px) {
   .txt-img1, .txt-img3 {
     height: 100px;
     margin-bottom: 15px;
